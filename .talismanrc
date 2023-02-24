@@ -1,0 +1,21 @@
+fileignoreconfig:
+
+- filename: ios/.xcode.env
+  checksum: b38a48e7c3739b46abd9f520c7dc6ce4f9411cff1d98cb06aa0e941e2d8899d5
+- filename: ios/demoRN.xcodeproj/xcshareddata/xcschemes/demoRN.xcscheme
+  checksum: e42bab34fe124d8d0bebd5a3f382210132b8c1c80790bbf7ac81aa56472a293f
+- filename: ios/Podfile.lock
+  checksum: 3fdf68e910c27e35b5212ba7cc041aa476bcda199841b4ea81e4ba2a76dad273
+- filename: ios/demoRN.xcodeproj/project.pbxproj
+  checksum: 9e71c0d182be3fb21f7d7a3b341e0c83d362d7c1eed2f550b606dc385e477bcb
+- filename: yarn.lock
+  checksum: ca5c41fde1cb5101e263a72a937408b8439eb8262ea4c7f03fc49a563aedb4c0
+- filename: ios/demoRNTests/Info.plist
+  checksum: 675631862f3e002e1e1122d2bfde04f2855f4db74b0e9616a2149abadd4c2407
+- filename: ios/demoRN.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+  checksum: 7b42c6abde0cd32f4e229d06e3a91487f3e09ae9b4d2ddfbfe630f2143b26b55
+- filename: ios/demoRN/LaunchScreen.storyboard
+  checksum: 77656399caca4ad78f46dd698f9b05ddd673bdc34e9e76f77926e3bbb8592dc4
+- filename: ios/demoRN/Info.plist
+  checksum: 220161a89d9150ad975fb37b49829f62253d9175032bc5f8d2a594002243e494
+  version: ""
